@@ -1,0 +1,22 @@
+{
+  "name": "fugiatest",
+  "version": "1.0.0",
+  "description": "C# like disposables for holding disposable resource callbacks",
+  "main": "dist/index.js",
+  "typings": "dist/index.d.ts",
+  "author": "KeithKozey",
+  "license": "MIT",
+  "devDependencies": {
+    "tslint": "^3.13.0",
+    "tslint-microsoft-contrib": "git://github.com/Microsoft/tslint-microsoft-contrib.git#releases",
+    "typescript": "^2.0.0-dev.20160707"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NoahGreenholt/fugiatest.git"
+  },
+  "bugs": {
+    "url": "https://github.com/NoahGreenholt/fugiatest.git/issues"
+  },
+  "homepage": "https://github.com/NoahGreenholt/fugiatest.git"
+}
